@@ -35,5 +35,4 @@ A **real-time driver drowsiness detection system** that monitors driver fatigue 
   - `NumPy` – Numerical computations  
   - `math` – Euclidean distance calculations  
   - `playsound` / `winsound` – Cross-platform audio alerts  
-- **Optional Deployment:** Can be integrated into **GUI applications** or **vehicle monitoring systems**.
 
